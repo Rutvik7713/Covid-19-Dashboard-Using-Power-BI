@@ -1,4 +1,4 @@
- \textbf{Covid-19 Dashboard using Power BI}
+**Covid-19 Dashboard using Power BI**
 
 
 Dataset Used:
