@@ -7,3 +7,4 @@ The number of new cases is increasing day by day around the world. This dataset 
 
 OutPut:
 ![output image](https://github.com/Rutvik7713/Covid-19-Dashboard-Using-Power-BI/blob/main/Output_1.png)
+
