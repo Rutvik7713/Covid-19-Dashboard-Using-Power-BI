@@ -1,5 +1,6 @@
 **Covid-19 Dashboard using Power BI**
 
+[More read on this blog](https://medium.com/@rutvikpatel7713/covid-19-dashboard-using-power-bi-5566439fccc9)
 
 Dataset Used:
 Coronaviruses are a large family of viruses that may cause illness in animals or humans. In humans, several coronaviruses are known to cause respiratory infections ranging from the common cold to more severe diseases such as Middle East Respiratory Syndrome (MERS) and Severe Acute Respiratory Syndrome (SARS). The most recently discovered coronavirus causes coronavirus disease COVID-19 — World Health Organization
