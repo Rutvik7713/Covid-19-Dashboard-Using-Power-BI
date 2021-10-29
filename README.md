@@ -6,4 +6,4 @@ Coronaviruses are a large family of viruses that may cause illness in animals or
 The number of new cases is increasing day by day around the world. This dataset has information from the states and union territories of India at a daily level.
 
 OutPut:
-![output image](http://url/to/img.png)
+![output image](https://github.com/Rutvik7713/Covid-19-Dashboard-Using-Power-BI/blob/main/Output_1.png)
